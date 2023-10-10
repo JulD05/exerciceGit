@@ -1,4 +1,4 @@
-# Exercices sur git modifié par Jules et pas Quentin
+# Exercices sur git modifié par Jules et pa"r" Quentin gros con
 
 Il existe plusieurs outils permettant le versionning de fichiers. 
 Il s'avère qu'aujourd'hui, l'outil le plus utilisé est git.
